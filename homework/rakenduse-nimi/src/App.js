@@ -15,7 +15,7 @@ function App() {
           </h2>
           <ul>
             <li>korvpall</li>
-            <li>sarah:((</li>
+            <li>women</li>
             <li>kassid</li>
             <li>kui ropz ace teeb</li>
             <li>väike trip kuhugi</li>
